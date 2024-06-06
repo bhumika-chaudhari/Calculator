@@ -11,7 +11,7 @@ body{
     align-items: center;
 
     justify-content: center;
-    background-image:linear-gradient(rgb(254, 216, 216),rgb(197, 197, 197),rgb(114, 114, 114));
+    background-image:radial-gradient(rgb(133, 194, 231),rgb(70, 160, 196),rgb(14, 57, 78));
 }
 .container{
     position: relative;
